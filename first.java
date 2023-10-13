@@ -501,7 +501,7 @@ class calculator{
 } 
 */
 
-
+/* 
 class Calculator{
 int s;
 public int add(int x,int y) {
@@ -518,4 +518,4 @@ public static void main(String[] args) {
 First cal=new First();
 System.out.println(cal.add(3, 5));
 }
-}
+} */
